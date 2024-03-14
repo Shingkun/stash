@@ -1,6 +1,8 @@
 name: YouTubeAds
 desc: YouTubeAds
 #作者@Maasea @app2smile
+icon: "https://github.com/DualSubs/YouTube/raw/main/src/assets/icon.png"
+category: "Maasea"
 
 http:
   rewrite:
